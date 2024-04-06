@@ -1,12 +1,15 @@
 {
   "name": "Tanish Azad",
   "title": "Software Engineer",
+  "resume": "",
   "connections": [
     {
+      "icon": "github",
       "name": "GitHub",
       "url": "https://github.com/Taz03"
     },
     {
+      "icon": "linkedin",
       "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/tanish-azad"
     }
