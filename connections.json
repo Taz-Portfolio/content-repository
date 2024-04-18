@@ -1,12 +1,12 @@
 {
   "connections": [
     {
-      "icon": "github",
+      "icon": "https://raw.githubusercontent.com/Taz-Portfolio/content-repository/0da701d306ad4a7a40652703801b40d3a1bc0e67/assets/github.svg",
       "name": "GitHub",
       "url": "https://github.com/Taz03"
     },
     {
-      "icon": "linkedin",
+      "icon": "https://raw.githubusercontent.com/Taz-Portfolio/content-repository/0da701d306ad4a7a40652703801b40d3a1bc0e67/assets/linkedin.svg",
       "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/tanish-azad"
     }
